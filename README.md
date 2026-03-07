@@ -55,5 +55,5 @@ I work at the intersection of **Networking, Cybersecurity, IT Infrastructure, an
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/patrick-ndara-163372211/)
+* 📧 Email: ndarapatrick3@gmail.com
