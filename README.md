@@ -2,7 +2,7 @@
 
 * 🎓 Computer Science: Communication Networking Major
 * 📊 Data Science (Honours)
-* 🇳🇦 Namibia
+* 🌍 Namibia 🇳🇦
 
 ---
 
