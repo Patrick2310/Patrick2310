@@ -1,20 +1,18 @@
 # Hi, I'm Patrick Ndara 👋
 
-🎓 Computer Science (Networking) Graduate – 2024
-📊 Data Science (Honours) Student
+🎓 Computer Science: Communication Networking Major.
+📊 Currently furthering in Data Science (Honours).
 🌍 Namibia
-
-I work at the intersection of **Networking, Cybersecurity, IT Infrastructure, and Data Science**.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Interest
 
-* 🌐 Network Engineering & Security
-* 🔐 Ethical Hacking / Penetration Testing
-* ☁️ Cloud & Microsoft 365 Administration
-* 📊 Machine Learning in Finance & Agriculture
-* ⚙️ Automation for IT Support
+📊 Data Science (Finance)
+🌐 Network Engineering & Infrastructure Security
+🔐 Cybersecurity, Ethical Hacking & Penetration Testing
+☁️ Cloud Ops and Systems Administration (Azure, Microsoft 365)
+⚙️ Automations and Scripting
 
 ---
 
@@ -35,13 +33,6 @@ I work at the intersection of **Networking, Cybersecurity, IT Infrastructure, an
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/)
 
 ---
-
-## 📂 Featured Work
-
-* 🔧 **Microservices Logistics System** – Kafka, Docker, MongoDB
-* 🌐 **Programme Management REST API** – Ballerina
-* 📊 **ML Finance Research** – Credit Risk & Fraud Detection
-* 🖥 **WordPress Infrastructure** – Docker + Nginx Reverse Proxy
 
 ---
 
