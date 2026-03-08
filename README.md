@@ -21,7 +21,6 @@
 ### Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
 
 ---
 
@@ -29,6 +28,7 @@
 
 [![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
 [![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge\&logo=ballerina\&logoColor=white)](https://ballerina.io/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
 
 ---
 
