@@ -1,8 +1,8 @@
 # Hi, I'm Patrick Ndara 👋
 
-* 🎓 Computer Science: Communication Networking Major.
-* 📊 Currently furthering in Data Science (Honours).
-* 🌍 Namibia
+* 🎓 Computer Science: Communication Networking Major
+* 📊 Data Science (Honours)
+* 🇳🇦 Namibia
 
 ---
 
