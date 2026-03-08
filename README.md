@@ -47,13 +47,6 @@
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)](https://www.kali.org/)
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge\&logo=centos\&logoColor=white)](https://www.centos.org/)
 
-
-## 📈 GitHub Stats
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact)
-
 ---
 
 ## 🤝 Connect With Me
