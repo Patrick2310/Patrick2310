@@ -1,18 +1,18 @@
 # Hi, I'm Patrick Ndara 👋
 
-🎓 Computer Science: Communication Networking Major.
-📊 Currently furthering in Data Science (Honours).
-🌍 Namibia
+* 🎓 Computer Science: Communication Networking Major.
+* 📊 Currently furthering in Data Science (Honours).
+* 🌍 Namibia
 
 ---
 
 ## 🚀 Current Interest
 
-📊 Data Science (Finance)
-🌐 Network Engineering & Infrastructure Security
-🔐 Cybersecurity, Ethical Hacking & Penetration Testing
-☁️ Cloud Ops and Systems Administration (Azure, Microsoft 365)
-⚙️ Automations and Scripting
+* 📊 Data Science (Finance)
+* 🌐 Network Engineering & Infrastructure Security
+* 🔐 Cybersecurity, Ethical Hacking & Penetration Testing
+* ☁️ Cloud Ops and Systems Administration (Azure, Microsoft 365)
+* ⚙️ Automations and Scripting
 
 ---
 
