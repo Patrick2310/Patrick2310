@@ -52,4 +52,4 @@
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/patrick-ndara-163372211/)
-* 📧 Email: ndarapatrick3@gmail.com
+* 📧 Email: upon request
