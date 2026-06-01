@@ -8,7 +8,7 @@
 
 ## 🚀 Current Interest
 
-* 📊 Data Science (Finance)
+* 📊 Data Science (ML & AI)
 * 🌐 Network Engineering & Infrastructure Security
 * 🔐 Cybersecurity, Ethical Hacking & Penetration Testing
 * ☁️ Cloud Ops and Systems Administration (Azure, Microsoft 365)
